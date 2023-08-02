@@ -1,0 +1,75 @@
+.pageO{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background: radial-gradient(closest-side, #FFB775  , #FC9739  , #E86303  );
+    overflow: hidden;
+}
+
+.pageO h1{
+    
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-size: 130px;
+    font-style: normal;
+    font-weight:bolder;
+    line-height: 94%; /* 188px */
+    letter-spacing: 5px;
+    text-align: left;
+    position: absolute;
+    left: 15%;
+    top: 0%;
+}
+
+.bg-3{
+    width: 95%;
+    position: absolute;
+    bottom: -11%;
+    left: -5%;
+}
+
+.can{
+    position: absolute;
+    width: 40%;
+    bottom: -20%;
+    right: -10%;
+}
+
+.nav-img3{
+    position: absolute;
+    width: 15%;
+    top: -10%;
+}
+
+.bg-center-3{
+    width: 20%;
+    position: absolute;
+    top: 5%;
+    right: -5%;
+}
+
+.lorem{
+    position: absolute;
+    color: #FFF;
+    top: 45%;
+    left: 15%;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164.5%; /* 39.48px */
+    letter-spacing: -0.48px;
+    text-align: left;
+    /* width: 900px; */
+}
+
+.explore{
+    border-radius: 100px;
+    background: #FFF;
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    top: 65%;
+    left: 15%;
+}

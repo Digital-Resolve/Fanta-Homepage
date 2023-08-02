@@ -1,0 +1,96 @@
+.pageB{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background: radial-gradient(closest-side, #75BDFF  , #39B6FC  , #1667E1  );
+    overflow: hidden;
+}
+
+.text{
+    position: absolute;
+    width: 60%;
+    top: 12%;
+    left: 15%;
+    padding-bottom: 20px;
+}
+
+.pageB h1{
+    
+    color: #FFFFFF;
+    font-family: 'Poppins';
+    font-size: 130px;
+    font-style: normal;
+    font-weight:900;
+    line-height: 94%; /* 188px */
+    letter-spacing: 5px;
+    text-align: left;
+    position: absolute;
+    left: 15%;
+    top: 0%;
+}
+
+.bg-2{
+    width: 95%;
+    position: absolute;
+    bottom: -20%;
+    left: -5%;
+}
+
+.bg-left-2{
+    width: 30%;
+    position: absolute;
+    bottom: 25%;
+    left: -13%;
+}
+
+.bg-right-2{
+    width: 20%;
+    position: absolute;
+    bottom: 25%;
+    right: -10%;
+}
+
+.bg-center-2{
+    width: 28%;
+    position: absolute;
+    bottom: 48%;
+    left: 33%;
+    z-index: 1;
+}
+
+.can{
+    position: absolute;
+    width: 40%;
+    bottom: -20%;
+    right: -10%;
+}
+
+.nav-img2{
+    width: 7%;
+}
+
+.lorem{
+    position: absolute;
+    color: #FFF;
+    top: 40%;
+    left: 15%;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164.5%; /* 39.48px */
+    letter-spacing: -0.48px;
+    text-align: left;
+    /* width: 900px; */
+}
+
+.explore{
+    border-radius: 100px;
+    background: #FFF;
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    top: 65%;
+    left: 15%;
+}

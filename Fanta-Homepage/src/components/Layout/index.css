@@ -1,0 +1,14 @@
+/* :root{
+    --bg-grad: radial-gradient(closest-side, #FF8C75 , #FC4639 , #E62517);
+}
+
+.top{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background: var(--bg-grad);
+    overflow: hidden;
+    transition: all 1s;
+} */
